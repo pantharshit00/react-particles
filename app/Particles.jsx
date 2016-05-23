@@ -91,7 +91,6 @@ export default class LoadingZone extends Component {
 	render(){
 		return (
 			<canvas
-				style={style}
 				className='Particles'
 				ref='canvas'
 				onMouseMove={this.state.particles.onMouseMove}

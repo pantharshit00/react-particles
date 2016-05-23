@@ -5,7 +5,7 @@
 	"readme": "README.md",
 	"version": "0.0.1",
 
-	"main": "app/index.jsx",
+	"main": "app/Particles.jsx",
 
 	"scripts": {
 		"dev": "webpack-dev-server --progress --config webpack.dev.config.js",
