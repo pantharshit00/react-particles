@@ -1,9 +1,19 @@
 {
 	"name": "react-particles",
 	"description": "React Particles",
-	"author": "Raphael Gully",
-	"readme": "README.md",
-	"version": "0.0.1",
+	"version": "0.0.2",
+
+	"author": {
+		"name": "Raphael Gully",
+		"website": "http://dreadcast.com"
+	},
+
+	"readmeFilename": "README.md",
+	"homepage": "https://github.com/dreadcast/react-particles",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:dreadcast/react-particles.git"
+	},
 
 	"main": "app/Particles.jsx",
 
