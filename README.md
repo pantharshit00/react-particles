@@ -1,2 +1,2 @@
 # react-particles
-Unjquerified Customizable Interactive Particles Animation
+Unjquerified Reactive [Customizable Interactive Particles Animation](http://www.jqueryscript.net/animation/Customizable-Interactive-Particles-Animation-with-jQuery-jParticle.html)
