@@ -20,7 +20,7 @@ const particleType = PropTypes.shape({
 	speed: PropTypes.number,
 });
 
-export default class LoadingZone extends Component {
+export default class ParticlesComponent extends Component {
 	static propTypes = {
 		width: PropTypes.number,
 		height: PropTypes.number,
