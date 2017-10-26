@@ -15,7 +15,7 @@
 		"url": "git@github.com:dreadcast/react-particles.git"
 	},
 
-	"main": "app/Particles.jsx",
+	"main": "app/Particles.js",
 
 	"scripts": {
 		"dev": "webpack-dev-server --progress --config webpack.dev.config.js",
