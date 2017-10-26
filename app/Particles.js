@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import Particles from './Particles.js';
+import Particles from './ParticlesFrame.js';
 
 const particlesType = PropTypes.shape({
 	particlesNumber: PropTypes.number,
